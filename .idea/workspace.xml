@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c13092d3-bfb5-4d35-b8d0-a3bd2a862ad7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QXXShchn2Nfwkqwxy5vNuox8An" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/iocSpring" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LinkedList1">
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList" />
+      <module name="LinkedList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList1" />
+      <module name="LinkedList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="linkedList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList1" />
+      <module name="LinkedList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LinkedList1" />
+        <item itemvalue="Application.linkedList1" />
+        <item itemvalue="Application.LinkedList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c13092d3-bfb5-4d35-b8d0-a3bd2a862ad7" name="Default Changelist" comment="" />
+      <created>1567917915127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567917915127</updated>
+      <workItem from="1567917923463" duration="5942000" />
+      <workItem from="1567958324247" duration="592000" />
+      <workItem from="1568001594426" duration="2212000" />
+      <workItem from="1568048068852" duration="3580000" />
+      <workItem from="1568087492445" duration="174000" />
+      <workItem from="1568102234421" duration="8327000" />
+      <workItem from="1568118395308" duration="2655000" />
+      <workItem from="1568219671566" duration="35000" />
+      <workItem from="1568692864614" duration="616000" />
+      <workItem from="1573963179439" duration="607000" />
+      <workItem from="1573965017025" duration="4215000" />
+      <workItem from="1573992347726" duration="3750000" />
+      <workItem from="1574007886646" duration="649000" />
+      <workItem from="1574079897685" duration="608000" />
+      <workItem from="1574097560486" duration="711000" />
+      <workItem from="1574138337406" duration="1784000" />
+      <workItem from="1574142726369" duration="838000" />
+      <workItem from="1574150883218" duration="912000" />
+      <workItem from="1575198282607" duration="1205000" />
+      <workItem from="1575558017862" duration="1890000" />
+      <workItem from="1575695878210" duration="2116000" />
+      <workItem from="1575803611403" duration="102000" />
+      <workItem from="1580062890636" duration="242000" />
+      <workItem from="1581245047870" duration="749000" />
+      <workItem from="1599145613199" duration="2366000" />
+      <workItem from="1600343176719" duration="1984000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
